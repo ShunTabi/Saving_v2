@@ -1,0 +1,56 @@
+E:\03.C#\04.Soy -開発系\Soy\Soy\bin\Debug\Soy.exe.config
+E:\03.C#\04.Soy -開発系\Soy\Soy\bin\Debug\Soy.exe
+E:\03.C#\04.Soy -開発系\Soy\Soy\bin\Debug\Soy.pdb
+E:\03.C#\04.Soy -開発系\Soy\Soy\obj\Debug\Soy.csproj.AssemblyReference.cache
+E:\03.C#\04.Soy -開発系\Soy\Soy\obj\Debug\Soy.csproj.SuggestedBindingRedirects.cache
+E:\03.C#\04.Soy -開発系\Soy\Soy\obj\Debug\Soy.Properties.Resources.resources
+E:\03.C#\04.Soy -開発系\Soy\Soy\obj\Debug\Soy.Soy.resources
+E:\03.C#\04.Soy -開発系\Soy\Soy\obj\Debug\Soy.csproj.GenerateResource.cache
+E:\03.C#\04.Soy -開発系\Soy\Soy\obj\Debug\Soy.csproj.CoreCompileInputs.cache
+E:\03.C#\04.Soy -開発系\Soy\Soy\obj\Debug\Soy.exe
+E:\03.C#\04.Soy -開発系\Soy\Soy\obj\Debug\Soy.pdb
+E:\03.C#\04.Soy -DEV\Soy\Soy\bin\Debug\Soy.exe.config
+E:\03.C#\04.Soy -DEV\Soy\Soy\bin\Debug\Soy.exe
+E:\03.C#\04.Soy -DEV\Soy\Soy\bin\Debug\Soy.pdb
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.csproj.AssemblyReference.cache
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.csproj.SuggestedBindingRedirects.cache
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.Properties.Resources.resources
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.Soy.resources
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.csproj.GenerateResource.cache
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.csproj.CoreCompileInputs.cache
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.exe
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.pdb
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.Saving.resources
+E:\03.C#\04.Soy -DEV\Soy\Soy\bin\Debug\System.Data.SQLite.dll
+E:\03.C#\04.Soy -DEV\Soy\Soy\bin\Debug\System.Data.SQLite.xml
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.csproj.CopyComplete
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.Account.resources
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.Billing.resources
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.SavingAmount.resources
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.Setting.resources
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.BillingAmount.resources
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.Card.resources
+E:\03.C#\04.Soy -DEV\Soy\Soy\obj\Debug\Soy.Asset.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\bin\Debug\Soy.exe.config
+E:\03.C#\04.Soy_DEV\Soy\Soy\bin\Debug\Soy.exe
+E:\03.C#\04.Soy_DEV\Soy\Soy\bin\Debug\Soy.pdb
+E:\03.C#\04.Soy_DEV\Soy\Soy\bin\Debug\System.Data.SQLite.dll
+E:\03.C#\04.Soy_DEV\Soy\Soy\bin\Debug\System.Data.SQLite.xml
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.csproj.AssemblyReference.cache
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.csproj.SuggestedBindingRedirects.cache
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.Asset.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.Billing.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.BillingAmount.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.Card.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.Saving.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.SavingAmount.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.Setting.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.Properties.Resources.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.Soy.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.Account.resources
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.csproj.GenerateResource.cache
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.csproj.CoreCompileInputs.cache
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.csproj.CopyComplete
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.exe
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.pdb
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Debug\Soy.Analysis.resources
