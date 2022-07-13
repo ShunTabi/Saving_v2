@@ -70,7 +70,7 @@ namespace Soy
                 FunCom.AddTextbox(tb2, 5, 4, p1, new int[] { 180, 10 });
                 tb1.Location = new Point(802, 10);
                 tb1.Text = FunDate.getToday(3, int.Parse(string.Format("{0}", FunINI.GetString(ConFILE.iniDefault, "[Analysis]", "from"))));
-                tb2.Location = new Point(1002, 10);
+                tb2.Location = new Point(992, 10);
                 tb2.Text = FunDate.getToday(3, int.Parse(string.Format("{0}", FunINI.GetString(ConFILE.iniDefault, "[Analysis]", "to"))));
                 tb1.TextChanged += (sender, e) =>
                 {

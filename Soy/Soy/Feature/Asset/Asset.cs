@@ -34,9 +34,9 @@ namespace Soy
                 FunCom.AddPanel(pa3, 0, uc, new int[] { 0, 0 });
                 FunCom.AddPanel(pa2, 1, uc, new int[] { 0, 70 });
                 FunCom.AddPanel(pa1, 1, uc, new int[] { 0, 50 });
-                pa2.BackColor = Color.Coral;
+                pa2.BackColor = Color.LightCoral;
                 pa2.Padding = new Padding(10, 10, 10, 0);
-                pa3.BackColor = Color.Coral;
+                pa3.BackColor = Color.LightCoral;
                 pa3.Padding = new Padding(10, 0, 10, 10);
             }
             private static void Bottom()
@@ -55,7 +55,7 @@ namespace Soy
                 tb2.TextChanged += (sender, e) => { if (Regex.IsMatch(tb2.Text, @"^[0-9]{4}-(0[1-9]|1[0-2])$")) { LocalLoad.LocalMain(); } };
                 FunCom.AddDataGridView(dg, 0, pa3, new int[] { 0, 0 });
                 FunCom.AddDataGridViewColumns(dg, new string[] { "Dummy", "月", "貯金実績", "債務実績", "純資産実績" });
-                dg.BackgroundColor = Color.Coral;
+                dg.BackgroundColor = Color.LightCoral;
                 dg.Columns[2].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
                 dg.Columns[3].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
                 dg.Columns[4].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;

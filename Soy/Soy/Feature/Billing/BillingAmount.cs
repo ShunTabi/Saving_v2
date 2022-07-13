@@ -41,7 +41,7 @@ namespace Soy
             {
                 FunCom.AddPanel(pa2, 0, uc, new int[] { 0, 0 });
                 FunCom.AddPanel(pa1, 2, uc, new int[] { 350, 0 });
-                pa2.BackColor = Color.Coral;
+                pa2.BackColor = Color.LightCoral;
                 pa2.Padding = new Padding(10, 10, 10, 10);
             }
             private static void LeftSide()
@@ -66,7 +66,7 @@ namespace Soy
                 tb2.Text = FunDate.getToday(0, 0);
                 FunCom.AddButton(btn1, 5, 7, pa1, new int[] { 90, 50 });
                 btn1.Location = new Point(100, 225);
-                btn1.BackColor = Color.Coral;
+                btn1.BackColor = Color.LightCoral;
                 btn1.Click += (sender, e) =>
                 {
                     if (cb1.Text == "" || tb1.Text == "" || tb2.Text == "")
@@ -95,7 +95,7 @@ namespace Soy
             public static void RightSide()
             {
                 FunCom.AddDataGridView(dg, 0, pa2, new int[] { 0, 0 });
-                dg.BackgroundColor = Color.Coral;
+                dg.BackgroundColor = Color.LightCoral;
                 FunCom.AddDataGridViewColumns(dg, new string[] { "ID", "月", "カード", "債務実績" });
                 dg.Columns[3].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
                 FunCom.AddContextMenuStrip(dg, ConCom.defaultBtnNames, new EventHandler[]

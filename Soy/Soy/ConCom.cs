@@ -16,8 +16,8 @@ namespace Soy
     {
         public static Color mainButtonColor = Color.RoyalBlue;
         public static Color mainButtonColorPushed = Color.MediumBlue;
-        public static Color subButtonColor = Color.LightSalmon;
-        public static Color subButtonColorPushed = Color.OrangeRed;
+        public static Color subButtonColor = Color.LightCoral;
+        public static Color subButtonColorPushed = Color.DarkRed;
     }
     class ConSaving
     {

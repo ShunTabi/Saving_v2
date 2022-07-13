@@ -27,6 +27,7 @@ E:\03.C#\04.Soy_DEV\Soy\Soy\bin\Release\System.Data.SQLite.dll
 E:\03.C#\04.Soy_DEV\Soy\Soy\bin\Release\System.Data.SQLite.xml
 E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.csproj.AssemblyReference.cache
 E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.csproj.SuggestedBindingRedirects.cache
+E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.Analysis.resources
 E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.Asset.resources
 E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.Billing.resources
 E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.BillingAmount.resources
@@ -42,4 +43,3 @@ E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.csproj.CoreCompileInputs.cache
 E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.csproj.CopyComplete
 E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.exe
 E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.pdb
-E:\03.C#\04.Soy_DEV\Soy\Soy\obj\Release\Soy.Analysis.resources
